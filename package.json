@@ -1,0 +1,35 @@
+{
+  "name": "hackerman14",
+  "version": "1.0.0",
+  "description": "The Discord bot for fun uses!",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/hackerman14/bot-codes.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "14.16.0"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@top-gg/sdk": "^3.0.7",
+    "canvas": "^2.6.1",
+    "commando-provider-mongo": "^2.1.0",
+    "discord-bot-analytics": "^1.0.14",
+    "discord.js": "^12.5.1",
+    "discord.js-commando": "^0.12.2",
+    "express": "^4.17.1",
+    "mongodb": "^3.6.4",
+    "node-fetch": "^2.6.1",
+    "random-puppy": "^1.1.0",
+    "topgg-autoposter": "^1.1.6",
+    "urban": "^0.3.2",
+    "weather.js": "^0.1.0",
+    "mongoose": "^5.11.17"
+  }
+}
