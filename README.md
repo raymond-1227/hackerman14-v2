@@ -1,5 +1,5 @@
 # hackerman14 v2
-idk command handler might be moving to actual bot-codes project repo lol
+a command handler that i might be moving the source to bot-codes repo
 
 ## Archived
 
